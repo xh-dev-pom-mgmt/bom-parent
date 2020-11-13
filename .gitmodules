@@ -1,0 +1,33 @@
+[submodule "bom-base"]
+	path = bom-base
+	url = git@github.com:xh-dev-pom-mgmt/bom-base.git
+[submodule "bom-common"]
+	path = bom-common
+	url = git@github.com:xh-dev-pom-mgmt/bom-common.git
+[submodule "bom-common-spring"]
+	path = bom-common-spring
+	url = git@github.com:xh-dev-pom-mgmt/bom-common-spring.git
+[submodule "bom-common-spring-kotlin"]
+	path = bom-common-spring-kotlin
+	url = git@github.com:xh-dev-pom-mgmt/bom-common-spring-kotlin.git
+[submodule "bom-common-spring-scala"]
+	path = bom-common-spring-scala
+	url = git@github.com:xh-dev-pom-mgmt/bom-common-spring-scala.git
+[submodule "archetypes/quickstart"]
+	path = archetypes/quickstart
+	url = git@github.com:xh-dev-pom-mgmt/archetype-quickstart.git
+[submodule "archetypes/quickstart-kotlin"]
+	path = archetypes/quickstart-kotlin
+	url = git@github.com:xh-dev-pom-mgmt/archetype-quickstart-kotlin.git
+[submodule "archetypes/quickstart-kotlin-lib"]
+	path = archetypes/quickstart-kotlin-lib
+	url = git@github.com:xh-dev-pom-mgmt/archetype-quickstart-kotlin-lib.git
+[submodule "archetypes/quickstart-lib"]
+	path = archetypes/quickstart-lib
+	url = git@github.com:xh-dev-pom-mgmt/archetype-quickstart-lib.git
+[submodule "archetypes/quickstart-scala"]
+	path = archetypes/quickstart-scala
+	url = git@github.com:xh-dev-pom-mgmt/archetype-quickstart-scala.git
+[submodule "archetypes/quickstart-scala-lib"]
+	path = archetypes/quickstart-scala-lib
+	url = git@github.com:xh-dev-pom-mgmt/archetype-quickstart-scala-lib.git
